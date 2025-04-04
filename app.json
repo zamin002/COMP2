@@ -1,0 +1,22 @@
+{
+  "name": "GoldsmithsApp",
+  "slug": "goldsmithsapp",
+  "owner": "zamin002",
+  "android": {
+    "package": "com.anonymous.goldsmithsapp"
+  },
+  "ios": {
+    "jsEngine": "jsc",
+    "bundleIdentifier": "com.anonymous.goldsmithsapp"
+  },
+  "scheme": "goldsmithsapp",
+  "extra": {
+    "eas": {
+      "projectId": "53a1eb5f-98be-42cf-b479-7bd4a6acb912"
+    }
+  },
+  "runtimeVersion": "1.0.0",
+  "updates": {
+    "url": "https://u.expo.dev/53a1eb5f-98be-42cf-b479-7bd4a6acb912"
+  }
+}
